@@ -1,4 +1,4 @@
-let countDownTime = new Date('Oct 11, 2021 00:00:00').getTime();
+let countDownTime = new Date('Oct 1, 2022 00:00:00').getTime();
 
 function durgaPujo() {
     let nowTime = new Date().getTime();
